@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+Crowdfunding Campaign Contract 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+1. To compile the contracts use --------------->    npx hardhat compile
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+2. To run the test files -------------------->      npx hardhat test 
+
+
+
+Contracts can be found under contracts folder 
